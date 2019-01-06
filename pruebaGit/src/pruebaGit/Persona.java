@@ -1,5 +1,5 @@
 package pruebaGit;
-
+//
 public class Persona 
 {
 	private String nombre;

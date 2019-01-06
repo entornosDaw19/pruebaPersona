@@ -10,6 +10,7 @@ public class AppPersona {
 		        pers1.setTelefono("777654321");
 		        pers1.vis();
 		        System.out.println("Los datos de la persona son");
+		        System.out.println();
 		        System.out.println(pers1.toString());
 		    //  Persona persona2=new Persona();
 	}
