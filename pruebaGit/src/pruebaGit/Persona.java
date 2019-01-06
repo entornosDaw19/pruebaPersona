@@ -26,7 +26,10 @@ public class Persona
 	{
 		telefono = tel;
 	}
-	//visualizar
+	
+	
+	
+	
 	public void vis()
 	{
 		System.out.println("Nombre: "+ nombre +" Telefono: "+telefono);
